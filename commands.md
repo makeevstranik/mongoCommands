@@ -1,5 +1,3 @@
-## Команды рассмотренные в курсе:
-
 ### Работа с MongoDB:
 
 `mongod` - запустить базу данных (`mongod --config /usr/local/etc/mongod.conf` для Mac OS)
